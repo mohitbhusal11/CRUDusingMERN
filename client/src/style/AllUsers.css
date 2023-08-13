@@ -1,0 +1,25 @@
+.table-container{
+    width: 60% !important;
+    margin: 30px auto;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.table-head{
+    background-color: #0c2640;
+    color: white !important;
+    font-size: 1.5rem !important;
+}
+
+.delete-button{
+    background-color: rgb(221, 7, 7) !important;
+    color: white !important;
+    margin-left: 5px !important;
+}
+
+.edit-button{
+    margin-right: 5px !important;
+    background-color: rgb(7, 221, 14) !important;
+    color: white !important;
+}

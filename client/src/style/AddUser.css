@@ -1,0 +1,19 @@
+.form-group{
+    width: 30%;
+    margin: 50px auto;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.form-field{
+    margin-top: 25px !important;
+}
+
+.title{
+    margin: auto !important;
+}
+
+.button{
+    margin: 25px auto !important;
+}

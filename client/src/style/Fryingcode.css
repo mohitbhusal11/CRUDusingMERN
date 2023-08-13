@@ -1,0 +1,15 @@
+.home{
+    width: 60%;
+    text-align: center;
+    margin: auto;
+    font-size: 1.5rem;
+}
+.home h1{
+    margin: 0;
+}
+.full-home{
+    width: 100wh;
+    height: calc(100vh - 60px);
+    
+    background-color: rgba(186, 173, 218, 0.674);
+}

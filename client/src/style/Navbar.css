@@ -1,0 +1,13 @@
+.header{
+    background-color: #0c2640 !important;
+    position: static !important;
+    height: 60px;
+}
+
+.tabs{
+    font-size: 1.5rem;
+    margin-right: 25px;
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+}
